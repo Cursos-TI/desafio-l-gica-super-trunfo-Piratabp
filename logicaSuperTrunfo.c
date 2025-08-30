@@ -234,6 +234,3 @@
                         printf("Carta 2 venceu!\n");
 
 return 0; }
-
-    return 0;
-}
